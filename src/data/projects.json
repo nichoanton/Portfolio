@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Masdr – Calls & Chat Platform",
+    "desc": "Real-time communication platform with agent & supervisor dashboards and micro-frontend architecture.",
+    "tech": "React, Redux, Tailwind",
+    "role": "Senior Software Developer"
+  },
+  {
+    "title": "Team Space",
+    "desc": "Collaboration software with role-based dashboards, real-time communication and third-party integrations.",
+    "tech": "React, Redux, Node.js, MongoDB, Tailwind",
+    "role": "Full Stack Developer"
+  },
+  {
+    "title": "Cloud Kitchen ERP",
+    "desc": "ERP system for cloud kitchen operations with optimized UI performance.",
+    "tech": "React, Node.js, Redux, Tailwind",
+    "role": "Frontend Developer"
+  },
+  {
+    "title": "YTT Web Application",
+    "desc": "Full-stack application with API development and database design.",
+    "tech": "React, Node.js, MongoDB, Bootstrap",
+    "role": "Full Stack Developer"
+  },
+  {
+    "title": "Interview App (AI-based)",
+    "desc": "AI-driven hiring platform for candidates and recruiters.",
+    "tech": "React, Tailwind, Jest",
+    "role": "Frontend Developer"
+  },
+  {
+    "title": "Trade View AI",
+    "desc": "Financial platform with real-time market data, trading account integration and dynamic charts.",
+    "tech": "React, Redux, Node.js, MongoDB",
+    "role": "Full Stack Developer"
+  }
+]

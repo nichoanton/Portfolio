@@ -1,0 +1,19 @@
+body {
+  font-family: "Poppins", sans-serif;
+  background: #f8f9fa;
+}
+
+.section-title {
+  font-weight: 700;
+  margin-bottom: 40px;
+}
+
+.card {
+  border-radius: 15px;
+}
+
+.hero {
+  min-height: 90vh;
+  display: flex;
+  align-items: center;
+}

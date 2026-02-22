@@ -1,0 +1,42 @@
+[
+  {
+    "role": "Senior Software Developer G1",
+    "company": "CONTUS TECH",
+    "duration": "Nov 2024 – Mar 2025",
+    "points": [
+      "Architected scalable and high-performance enterprise applications",
+      "Led Agile ceremonies and cross-functional teams",
+      "Mentored junior developers and conducted code reviews"
+    ]
+  },
+  {
+    "role": "Full Stack Developer",
+    "company": "NIMBLIANT",
+    "duration": "Jul 2024 – Nov 2024",
+    "points": [
+      "Built end-to-end web applications with optimized performance",
+      "Integrated third-party APIs and services",
+      "Implemented database and server-side performance optimizations"
+    ]
+  },
+  {
+    "role": "Full Stack Web Developer",
+    "company": "YTT LLC",
+    "duration": "Aug 2020 – Jun 2024",
+    "points": [
+      "Developed scalable web apps and REST APIs",
+      "Worked in Scrum with sprint planning and delivery",
+      "Built full-stack features with React, Node.js and MongoDB"
+    ]
+  },
+  {
+    "role": "Digital Associate – Testing",
+    "company": "Amazon",
+    "duration": "Aug 2019 – Aug 2020",
+    "points": [
+      "Manual testing for Amazon devices",
+      "Created test cases and collaborated with developers",
+      "Improved product usability and bug resolution cycle"
+    ]
+  }
+]
