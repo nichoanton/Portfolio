@@ -83,12 +83,10 @@ export default function HeroSection() {
             Get In Touch
           </a>
           <a
-            href="https://github.com/nichoanton"
-            target="_blank"
-            rel="noopener noreferrer"
+            href="#projects"
             className="px-8 py-4 border border-[#2d2d2d] hover:border-[#6366f1] text-[#9ca3af] hover:text-white rounded-lg font-semibold text-base transition-all duration-200"
           >
-            View GitHub
+            View Projects
           </a>
         </motion.div>
 
