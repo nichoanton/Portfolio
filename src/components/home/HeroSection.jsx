@@ -1,6 +1,6 @@
 import React from "react";
 import { motion } from "framer-motion";
-import { ArrowDown, Github, Linkedin, Mail, Phone } from "lucide-react";
+import { ArrowDown, Github, Linkedin, Mail, Phone, BookOpen } from "lucide-react";
 
 export default function HeroSection() {
   return (
@@ -107,6 +107,11 @@ export default function HeroSection() {
               icon: Linkedin,
               href: "https://www.linkedin.com/in/nicho-antony-664218209",
               label: "LinkedIn",
+            },
+            {
+              icon: BookOpen,
+              href: "https://medium.com/@nichoanton05",
+              label: "Medium",
             },
             {
               icon: Mail,
