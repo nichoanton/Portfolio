@@ -64,7 +64,7 @@ export default function HeroSection() {
           transition={{ duration: 0.6, delay: 0.3 }}
           className="text-[#6b7280] text-base sm:text-lg max-w-2xl mx-auto leading-relaxed mb-12"
         >
-          7+ years crafting scalable web applications. Deep expertise in React,
+          5+ years crafting scalable web applications. Deep expertise in React,
           Node.js, and modern full-stack architecture — from pixel-perfect UIs
           to robust APIs.
         </motion.p>
